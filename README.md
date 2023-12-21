@@ -2,67 +2,71 @@
 
 [![License](https://img.shields.io/badge/license-Kaggle-blue.svg)](LICENSE)
 
-Proyek ini menggunakan pohon keputusan untuk memprediksi harga rumah berdasarkan fitur-fitur tertentu. Pohon keputusan adalah model pembelajaran mesin yang dapat membantu mengidentifikasi pola dan membuat prediksi berdasarkan data pelatihan.
+# House Price Decision Tree
+
+[![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
+
+This project utilizes a decision tree to predict house prices based on specific features. A decision tree is a machine learning model that helps identify patterns and make predictions based on training data.
 
 ## Table of Contents
 - [Demo](#demo)
-- [Fitur](#fitur)
-- [Instalasi](#instalasi)
-- [Penggunaan](#penggunaan)
+- [Features](#features)
+- [Installation](#installation)
+- [Usage](#usage)
 - [Dataset](#dataset)
-- [Kontribusi](#kontribusi)
-- [Lisensi](#lisensi)
+- [Contribution](#contribution)
+- [License](#license)
 
 ## Demo
 
-Tambahkan tautan ke demo atau gambar hasil dari pohon keputusan yang telah dilatih, jika ada.
+Add a link to a demo or images of the trained decision tree, if available.
 
-## Fitur
+## Features
 
-- Pemodelan menggunakan pohon keputusan.
-- Prediksi harga rumah berdasarkan fitur-fitur tertentu.
-- Grafik visualisasi pohon keputusan.
+- Modeling using a decision tree.
+- Prediction of house prices based on specific features.
+- Visualization of the decision tree graph.
 
-## Instalasi
+## Installation
 
-1. Pastikan Anda memiliki Python dan pip terinstal.
-2. Clone repositori ini:
+1. Ensure you have Python and pip installed.
+2. Clone this repository:
 
     ```bash
     git clone https://github.com/username/house-price-decision-tree.git
     ```
 
-3. Masuk ke direktori proyek:
+3. Navigate to the project directory:
 
     ```bash
     cd house-price-decision-tree
     ```
 
-4. Install dependensi:
+4. Install dependencies:
 
     ```bash
     pip install -r requirements.txt
     ```
 
-## Penggunaan
+## Usage
 
-1. Jalankan skrip untuk melatih model dan membuat prediksi:
+1. Run the script to train the model and make predictions:
 
     ```bash
     python decision_tree_model.py
     ```
 
-2. Ikuti instruksi untuk memasukkan data dan mendapatkan prediksi harga rumah.
+2. Follow the instructions to input data and obtain house price predictions.
 
 ## Dataset
 
-Deskripsi singkat tentang dataset yang digunakan, atau tautan ke sumber dataset.
+Provide a brief description of the dataset used or a link to the dataset source.
 
-## Kontribusi
+## Contribution
 
-Jika Anda ingin berkontribusi pada proyek ini, silakan buka [Panduan Kontribusi](CONTRIBUTING.md).
+If you wish to contribute to this project, please refer to the [Contribution Guide](CONTRIBUTING.md).
 
-## Lisensi
+## License
 
-Proyek ini dilisensikan di bawah lisensi MIT - lihat file [LICENSE](LICENSE) untuk detail lebih lanjut.
+This project is licensed under the Kaggle License - see the [LICENSE](LICENSE) file for more details.
 
