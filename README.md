@@ -38,7 +38,7 @@ Add a link to a demo or images of the trained decision tree, if available.
 3. Navigate to the project directory:
 
     ```bash
-    cd house-price-decision-tree
+    cd Decision-tree
     ```
 
 4. Install dependencies:
