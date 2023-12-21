@@ -1,6 +1,6 @@
 # House Price Decision Tree
 
-[![License](https://img.shields.io/badge/license-Kaggle-blue.svg)](LICENSE)
+[[License]](LICENSE)
 
 This project utilizes a decision tree to predict house prices based on specific features. A decision tree is a machine learning model that helps identify patterns and make predictions based on training data.
 
