@@ -32,7 +32,7 @@ Add a link to a demo or images of the trained decision tree, if available.
 2. Clone this repository:
 
     ```bash
-    git clone https://github.com/username/house-price-decision-tree.git
+   gh repo clone reygaferdiansyah/Decision_Tree
     ```
 
 3. Navigate to the project directory:
