@@ -1,6 +1,6 @@
 # House Price Decision Tree
 
-[![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
+[![License](https://img.shields.io/badge/license-Kaggle-blue.svg)](LICENSE)
 
 Proyek ini menggunakan pohon keputusan untuk memprediksi harga rumah berdasarkan fitur-fitur tertentu. Pohon keputusan adalah model pembelajaran mesin yang dapat membantu mengidentifikasi pola dan membuat prediksi berdasarkan data pelatihan.
 
