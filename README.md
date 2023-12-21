@@ -1,6 +1,9 @@
 # House Price Decision Tree
 
-[[License]](LICENSE)
+[![PyPI version](https://badge.fury.io/py/colabcode.svg)](https://badge.fury.io/py/colabcode)
+![python version](https://img.shields.io/badge/python-3.6%2C3.7%2C3.8-blue?logo=python)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]
+[![Kaggle](https://img.shields.io/badge/Kaggle-Dataset-blue.svg)]
 
 This project utilizes a decision tree to predict house prices based on specific features. A decision tree is a machine learning model that helps identify patterns and make predictions based on training data.
 
