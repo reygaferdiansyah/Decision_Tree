@@ -2,10 +2,6 @@
 
 [![License](https://img.shields.io/badge/license-Kaggle-blue.svg)](LICENSE)
 
-# House Price Decision Tree
-
-[![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
-
 This project utilizes a decision tree to predict house prices based on specific features. A decision tree is a machine learning model that helps identify patterns and make predictions based on training data.
 
 ## Table of Contents
@@ -62,11 +58,5 @@ Add a link to a demo or images of the trained decision tree, if available.
 
 Provide a brief description of the dataset used or a link to the dataset source.
 
-## Contribution
 
-If you wish to contribute to this project, please refer to the [Contribution Guide](CONTRIBUTING.md).
-
-## License
-
-This project is licensed under the Kaggle License - see the [LICENSE](LICENSE) file for more details.
 
